@@ -16,5 +16,6 @@ DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,cs.cmu.edu
 DOMAIN-SUFFIX,freenas.org
 
-# imessage
+# apple
 DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,identity.ess.apple.com
